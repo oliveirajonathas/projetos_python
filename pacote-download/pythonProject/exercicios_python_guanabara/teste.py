@@ -1,0 +1,5 @@
+tupla = (1, 5, 7, 3)
+print(sorted(tupla))
+print(tupla.index(5))
+val = list(range(1,5))
+print(val)
